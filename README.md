@@ -1,12 +1,14 @@
 # The parallel model
 
-An association that does not sell anything, funded by the people who belong to
-it, which recognises what they give it instead of charging them for what they
-take.
+There is an economy outside our door and we have no argument with it. Inside,
+we run something else — alongside it, touching it at one place and nowhere
+else.
+
+Nobody buys anything, and nobody sells anything. There is a dial for each
+member, and a needle that moves right when you give to the association and left
+when you take from it.
 
 **→ [parallel-model.md](parallel-model.md)**
 
-Published to be argued with. If a part of it is wrong, unlawful, or naive,
-that is the most useful thing you can tell us — open an issue.
-
 By [Noviciado](https://noviciado.com), a members' association in Madrid.
+Arguments, objections and prior art all welcome — open an issue.
